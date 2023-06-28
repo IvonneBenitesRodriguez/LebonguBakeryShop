@@ -1,4 +1,4 @@
- Hi There 👋🏾 <br/>
+ Hi 👋🏾 <br/>
  My name is Ivonne and I have created a Bakery and Chocolate Shop website.<br/> 
  Bakery and Chocolate Shop name :  **Lebongu Bakery and Chocolatier**<br/>
  ## Project's name: Lebongu Bakery and Chocolatier
